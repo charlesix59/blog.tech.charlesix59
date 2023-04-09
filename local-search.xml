@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>关于最近我写了一个前端招募笔记这件事</title>
+    <link href="/2023/04/09/other/respawn_interview/"/>
+    <url>/2023/04/09/other/respawn_interview/</url>
+    
+    <content type="html"><![CDATA[<p>最近已经很久没更新博客了，究其原因，会有两点：</p><ol><li>我最近在忙着参加暑期实习的招聘，虽然至今一个offer也没收到（诶嘿嘿~）</li><li>因为找实习受挫，所以我在写一个汇集前端招聘会用到知识点的笔记</li></ol><p>所以这篇博客就来说说这本小书的事情。这本小书叫做Respawn Interview，中文翻译可能叫做重生招聘。<br>（好中二啊）</p><p>至于为什么这本书叫这个名字我在GitHub的readme中说过了，有兴趣的看官可以访问<br><a href="https://github.com/charlesix59/respawn_interview">Respawn Interview</a>的库</p><p>简要说一下这本小书的内容吧~<br>因为我现在努力的方向是前端，所以里面是各种前端的知识，目前大体打了一下框架，我用list表示一下<br>这本书的架构吧：</p><ul><li>计算机网络<ul><li>结构</li><li>ip</li><li>tcp</li><li>http</li></ul></li><li>HTTP<ul><li>浏览器</li><li>html</li><li>html tags</li></ul></li><li>Css<ul><li>css basic</li><li>css 选择器</li><li>css layout<ul><li>盒子</li><li>浮动</li><li>flex</li></ul></li><li>css 动画（待定）</li><li>其他(待定)</li></ul></li><li>JS<ul><li>js基础</li><li>函数</li><li>作用域</li><li>上下文</li><li>this</li><li>原型</li><li>面向对象</li><li>同步与异步</li><li>事件</li><li>DOM与BOM</li><li>引擎</li><li>优化</li><li>安全</li><li>模块化</li><li>设计模式</li></ul></li><li>其他<ul><li>安全算法（未完成）</li><li>编码（待定）</li></ul></li></ul><p>可以看到内容还是挺多的，以后可能还会更新React相关的内容。所以最近的精力可能会更多的放在那边<br>（写这种东西真的还挺累的啊啊啊啊）</p><p>而且前端的内容真的又多又杂而且有许多还及其的反智（都是什么鬼东西），所以我会持续的推进这本小书。<br>如果各位有往前端发展的愿望，那么不妨看看这本<a href="https://github.com/charlesix59/respawn_interview">小书</a><br>，万一能帮到你呢？</p><p>当然，由于鄙人才疏学浅，书中难免会有许多错误，届时还烦请各位大佬不吝斧正。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>前端</tag>
+      
+      <tag>文档</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>操作系统复习 重点提纲</title>
     <link href="/2023/03/07/subject/operate_system/choice/"/>
     <url>/2023/03/07/subject/operate_system/choice/</url>
